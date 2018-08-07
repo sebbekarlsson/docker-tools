@@ -1,0 +1,4 @@
+#!/bin/bash
+
+docker-rm-all-containers
+docker-rm-all-images
