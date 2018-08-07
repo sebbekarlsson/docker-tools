@@ -14,3 +14,8 @@
 ## Remove all images:
 
     $ docker-rm-all-images
+
+## Installing the tools
+> This will install the utils:
+
+    $ ./install.sh
