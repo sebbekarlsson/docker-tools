@@ -1,2 +1,2 @@
 #!/bin/bash
-mv docker-* /usr/local/bin/.
+cp docker-* /usr/local/bin/.
